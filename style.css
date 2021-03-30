@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.flex {
+  display: flex;
+}
+.column {
+  flex-direction: column;
+}
+
+.card {
+  width: 150px;
+  height: 130px;
+}
+
+.card-icon {
+  width: 65px;
+  height: 75px;
+  background-image: url("https://preview.colorlib.com/theme/farmie/img/core-img/windmill.png");
+}
